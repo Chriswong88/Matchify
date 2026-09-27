@@ -15,6 +15,6 @@
  * the first time you connect to an empty database.
  */
 window.MATCHIFY_SUPABASE = {
-  url: "https://plthzvkeawgfbeyuuobs.supabase.co",
-  anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBsdGh6dmtlYXdnZmJleXV1b2JzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkzNjM5MDAsImV4cCI6MjA5NDkzOTkwMH0.wdLXbIVZQMMlkbxFBlyWiTlvTIeyBPL-oQAqsCNUDbI"
+  url: "https://tnolukxduyoznsgnylgt.supabase.co",
+  anonKey: "sb_publishable_hO6iGp9CPtie2wEkWWIWEA_QFqWVD13"
 };
